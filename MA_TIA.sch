@@ -962,17 +962,6 @@ Wire Wire Line
 Connection ~ 6450 2150
 Connection ~ 6850 1450
 $Comp
-L power:GNDD #PWR01
-U 1 1 5DC88786
-P 3750 5050
-F 0 "#PWR01" H 3750 4800 50  0001 C CNN
-F 1 "GNDD" H 3754 4894 50  0000 C CNN
-F 2 "" H 3750 5050 50  0001 C CNN
-F 3 "" H 3750 5050 50  0001 C CNN
-	1    3750 5050
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x02 J4
 U 1 1 5DC888FC
 P 9600 2950
@@ -981,17 +970,6 @@ F 1 "digital_pwr" H 9680 2850 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 9600 2950 50  0001 C CNN
 F 3 "~" H 9600 2950 50  0001 C CNN
 	1    9600 2950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDD #PWR04
-U 1 1 5DC88BDA
-P 9250 3150
-F 0 "#PWR04" H 9250 2900 50  0001 C CNN
-F 1 "GNDD" H 9254 2994 50  0000 C CNN
-F 2 "" H 9250 3150 50  0001 C CNN
-F 3 "" H 9250 3150 50  0001 C CNN
-	1    9250 3150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1181,4 +1159,28 @@ Wire Wire Line
 Wire Wire Line
 	2150 4500 3150 4500
 Connection ~ 2150 4500
+Text Notes 7200 7000 0    100  ~ 0
+by Marcel Meyer Garcia
+$Comp
+L power:GND #PWR?
+U 1 1 5E1BE9AA
+P 9250 3150
+F 0 "#PWR?" H 9250 2900 50  0001 C CNN
+F 1 "GND" H 9255 2975 50  0000 C CNN
+F 2 "" H 9250 3150 50  0001 C CNN
+F 3 "" H 9250 3150 50  0001 C CNN
+	1    9250 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5E1BEA0B
+P 3750 5050
+F 0 "#PWR?" H 3750 4800 50  0001 C CNN
+F 1 "GND" H 3755 4875 50  0000 C CNN
+F 2 "" H 3750 5050 50  0001 C CNN
+F 3 "" H 3750 5050 50  0001 C CNN
+	1    3750 5050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
