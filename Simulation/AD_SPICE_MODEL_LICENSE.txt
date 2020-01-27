@@ -1,0 +1,28 @@
+This license applies only to the file "AD4350.cir".
+
+LICENSE AGREEMENT
+
+IMPORTANT NOTICE. Read this Agreement carefully before downloading or using this spice model. BY DOWNLOADING OR USING THIS SPICE MODEL IN ANY WAY YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS OR IF YOU DO NOT HAVE THE AUTHORITY DESCRIBED BELOW, DO NOT DOWNLOAD THIS SPICE MODEL, DO NOT USE THIS SPICE MODEL IN ANY WAY, AND PROMPTLY DELETE OR DESTROY ANY COPIES OF THIS SPICE MODEL IN YOUR POSSESSION
+
+If You are entering into this Agreement on behalf of a company or other organization, You represent that You have the authority to bind it to this Agreement and commit funds on its behalf, and the terms "You" and "Your" will refer to that company or organization.
+
+Analog Devices SPICE Model Library
+
+Copyright 1995-2015 by Analog Devices, Inc.
+
+The information in this SPICE Model is protected under United States copyright laws. ADI hereby grants You a nonexclusive, nontransferable license to use this SPICE Model as long as You abide by the terms of this Agreement.
+
+You may not sell, loan, rent, lease, or license the SPICE Model, in whole, in part, or in modified form, to anyone outside Your company. You may modify this SPICE Model to suit Your specific applications, and You may make copies of this SPICE Model for use within Your company.
+
+You may include copies of Analog Devices’ SPICE models with any software you sell or distribute. However, you may not make changes to the redistributed copies of Analog Devices SPICE models other than to:
+
+    Include comments.
+    Change nomenclature so that it will run on Your company’s software. No changes may be made that affect the performance or function of the model.
+
+Analog Devices includes SPICE models in its library that have been developed by third parties. These models may not be redistributed.
+
+This SPICE Model is provided AS IS, WHERE IS, AND WITH NO WARRANTY OF ANY KIND EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+ADI'S LIABILITY FOR DAMAGES TO YOU FOR ANY CAUSE WHATSOEVER, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION, SHALL NOT EXCEED ONE HUNDRED US DOLLARS ($100.00 US). IN NO EVENT SHALL ADI BE LIABLE FOR ANY LOSS OF DATA, PROFITS OR USE OF THE SPICE MODEL, OR FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL OR OTHER INDIRECT DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SPICE MODEL.
+
+This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, without regard to its choice of law provisions. The parties agree that the United Nations Convention on Contracts for the International Sale of Goods is hereby excluded in its entirety from this Agreement. The sole jurisdiction and venue for all actions related to the subject matter hereof shall be the state and federal courts located in Suffolk County, Massachusetts.
